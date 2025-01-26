@@ -18,3 +18,7 @@ https://xyzdddd.mizhls.ru/lb/premium670/index.m3u8
 http://178.219.128.68:64889/POLSSPORHD
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Polsat Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/465px-Polsat_Sport_3_2024.svg.png" group-title="Thể thao quốc tế",Polsat Sport 3
 http://178.219.128.68:64889/POLSSPORNEWSHD
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="Canal+ Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B_Sport_2015.png/800px-Canal%2B_Sport_2015.png" group-title="Thể thao quốc tế",Canal+ Sport
+http://185.236.229.62:9981/play/a04c
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="Canal+ Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/800px-Canal%2B_Sport_2_PL.png" group-title="Thể thao quốc tế",Canal+ Sport 2
+http://185.236.229.62:9981/play/a05t
