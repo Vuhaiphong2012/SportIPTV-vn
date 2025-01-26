@@ -7,10 +7,14 @@
 
 #EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png?20241109155317" group-title="Thể thao quốc tế",BBC One
 http://p1.cvtv.xyz:81/bbc1?token=live
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name=ITV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/512px-ITV1_logo_%282022%29.svg.png?20241022192006" group-title="Thể thao quốc tế",ITV1
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/512px-ITV1_logo_%282022%29.svg.png?20241022192006" group-title="Thể thao quốc tế",ITV1
 http://p1.cvtv.xyz/itv1?token=live
-#EXTINF:-1 tvg-id="S4C.uk" tvg-name=S4C" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/250px-S4C_logo_2014.svg.png" group-title="Thể thao quốc tế",S4C
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/250px-S4C_logo_2014.svg.png" group-title="Thể thao quốc tế",S4C
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium670/index.m3u8
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="Polsat Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/441px-Polsat_Sport_1_2024.svg.png" group-title="Thể thao quốc tế",Polsat Sport 1
+http://178.219.128.68:64889/POLSSPORHD
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="Polsat Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/465px-Polsat_Sport_3_2024.svg.png" group-title="Thể thao quốc tế",Polsat Sport 3
+http://178.219.128.68:64889/POLSSPORNEWSHD
