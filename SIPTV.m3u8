@@ -79,3 +79,5 @@ http://samisat44.xyz:80/5XF88W5/A38UYQV/1069978
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Canal+ Live 19" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Canal%2B_Live_19.png/revision/latest/scale-to-width-down/200?cb=20240911094406" group-title="Thể thao quốc tế",Canal+ Live 19
 #EXTVLCOPT:network-caching=1000
 http://samisat44.xyz:80/5XF88W5/A38UYQV/1069979
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="BeIN Sports Xtra en Español" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Logo-bein-sport-xtra-espanol-plain.png/revision/latest/scale-to-width-down/300?cb=20240923145001" group-title="Thể thao quốc tế",BeIN Sports Xtra en Español
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
