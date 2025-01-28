@@ -81,3 +81,12 @@ http://samisat44.xyz:80/5XF88W5/A38UYQV/1069978
 http://samisat44.xyz:80/5XF88W5/A38UYQV/1069979
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="BeIN Sports Xtra en Español" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Logo-bein-sport-xtra-espanol-plain.png/revision/latest/scale-to-width-down/300?cb=20240923145001" group-title="Thể thao quốc tế",BeIN Sports Xtra en Español
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="BeIN Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/300?cb=20230910182143" group-title="Thể thao quốc tế",BeIN Sports
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/72383
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="BeIN Sports Xtra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/BeIN_Xtra.PNG/revision/latest/scale-to-width-down/300?cb=20201108180437" group-title="Thể thao quốc tế",BeIN Sports Xtra
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/174567
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="BeIN Sports En Español" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/BeIN_Sports_en_Espa%C3%B1ol_2017.svg/revision/latest/scale-to-width-down/300?cb=20230910184553" group-title="Thể thao quốc tế",beIN Sports En Español
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/72382
