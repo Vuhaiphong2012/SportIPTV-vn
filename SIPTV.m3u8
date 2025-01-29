@@ -6,6 +6,7 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=5
 #EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
 
+==Untied Kingdom==
 #EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png?20241109155317" group-title="Thể thao quốc tế",BBC One
 http://p1.cvtv.xyz:81/bbc1?token=live
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/512px-ITV1_logo_%282022%29.svg.png?20241022192006" group-title="Thể thao quốc tế",ITV1
@@ -15,6 +16,32 @@ http://p1.cvtv.xyz/itv1?token=live
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium670/index.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Sports_Main_Event_UHD.svg/revision/latest/scale-to-width-down/200?cb=20230210154620" group-title="Thể thao quốc tế",Sky Sports Main Event UHD
+https://7pal.short.gy/SSMEuhd
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Sky_Sports_F1_UHD_.webp/revision/latest/scale-to-width-down/200?cb=20240214033154" group-title="Thể thao quốc tế",Sky Sports F1 UHD
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sports_Main_Event_2020.svg/revision/latest/scale-to-width-down/350?cb=20200924152245" group-title="Thể thao quốc tế",Sky Sports Main Event
+https://7pal.short.gy/SkSpMainE
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Sports_Premier_League_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152906" group-title="Thể thao quốc tế",Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sky_Sports_Football_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152526" group-title="Thể thao quốc tế",Sky Sports Football
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Sky_Sports_F1_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152412" group-title="Thể thao quốc tế",Sky Sports F1
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Sky_Sports_Tennis.svg/revision/latest/scale-to-width-down/350?cb=20230830104212" group-title="Thể thao quốc tế",Sky Sports Tennis
+https://7pal.short.gy/ssportstn
+#EXTINF:-1 tvg-id="SkySp+.uk" tvg-name="Sky Sports+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Sky_Sports%2B.svg/revision/latest/scale-to-width-down/350?cb=20240808030609" group-title="Thể thao quốc tế",Sky Sports+
+https://7pal.short.gy/ssportplus
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="Sky Sports Golf" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Sky_Sports_Golf_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152539" group-title="Thể thao quốc tế",Sky Sports Golf
+https://7pal.short.gy/ssportsgf
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_News_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152703" group-title="Thể thao quốc tế",Sky Sports News
+https://7pal.short.gy/ssportsnw
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-name="Sky Sports Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Sky_Sports_Action_2021.svg/revision/latest/scale-to-width-down/300?cb=20210704201429" group-title="Thể thao quốc tế",Sky Sports Action
+https://7pal.short.gy/ssportsat
+#EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-name="Sky Sports Box Office" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Sky_Sports_Box_Office.svg/revision/latest/scale-to-width-down/390?cb=20240918125321" group-title="Thể thao quốc tế",Sky Sports Box Office
+https://7pal.short.gy/ssportsbo
+
+==Poland==
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Polsat Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/441px-Polsat_Sport_1_2024.svg.png" group-title="Thể thao quốc tế",Polsat Sport 1
 http://178.219.128.68:64889/POLSSPORHD
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Polsat Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/465px-Polsat_Sport_3_2024.svg.png" group-title="Thể thao quốc tế",Polsat Sport 3
@@ -23,6 +50,21 @@ http://178.219.128.68:64889/POLSSPORNEWSHD
 http://p1.cvtv.xyz/cp1?token=live
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Canal+ Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/800px-Canal%2B_Sport_2_PL.png" group-title="Thể thao quốc tế",Canal+ Sport 2
 http://185.236.229.62:9981/play/a05t
+
+==United States==
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="BeIN Sports Xtra en Español" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Logo-bein-sport-xtra-espanol-plain.png/revision/latest/scale-to-width-down/300?cb=20240923145001" group-title="Thể thao quốc tế",BeIN Sports Xtra en Español
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="BeIN Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/300?cb=20230910182143" group-title="Thể thao quốc tế",BeIN Sports
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/72383
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="BeIN Sports Xtra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/BeIN_Xtra.PNG/revision/latest/scale-to-width-down/300?cb=20201108180437" group-title="Thể thao quốc tế",BeIN Sports Xtra
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/174567
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="BeIN Sports En Español" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/BeIN_Sports_en_Espa%C3%B1ol_2017.svg/revision/latest/scale-to-width-down/300?cb=20230910184553" group-title="Thể thao quốc tế",beIN Sports En Español
+#EXTVLCOPT:network-caching=1000
+http://samisat44.xyz:80/5XF88W5/A38UYQV/72382
+
+==France==
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Canal+ Live 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal%2B_Live_1.png/revision/latest/scale-to-width-down/200?cb=20240911093254" group-title="Thể thao quốc tế",Canal+ Live 1
 #EXTVLCOPT:network-caching=1000
 http://samisat44.xyz:80/5XF88W5/A38UYQV/1069960
@@ -80,40 +122,5 @@ http://samisat44.xyz:80/5XF88W5/A38UYQV/1069978
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Canal+ Live 19" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Canal%2B_Live_19.png/revision/latest/scale-to-width-down/200?cb=20240911094406" group-title="Thể thao quốc tế",Canal+ Live 19
 #EXTVLCOPT:network-caching=1000
 http://samisat44.xyz:80/5XF88W5/A38UYQV/1069979
-#EXTINF:-1 tvg-id="S4C.uk" tvg-name="BeIN Sports Xtra en Español" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Logo-bein-sport-xtra-espanol-plain.png/revision/latest/scale-to-width-down/300?cb=20240923145001" group-title="Thể thao quốc tế",BeIN Sports Xtra en Español
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 tvg-id="S4C.uk" tvg-name="BeIN Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/300?cb=20230910182143" group-title="Thể thao quốc tế",BeIN Sports
-#EXTVLCOPT:network-caching=1000
-http://samisat44.xyz:80/5XF88W5/A38UYQV/72383
-#EXTINF:-1 tvg-id="S4C.uk" tvg-name="BeIN Sports Xtra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/BeIN_Xtra.PNG/revision/latest/scale-to-width-down/300?cb=20201108180437" group-title="Thể thao quốc tế",BeIN Sports Xtra
-#EXTVLCOPT:network-caching=1000
-http://samisat44.xyz:80/5XF88W5/A38UYQV/174567
-#EXTINF:-1 tvg-id="S4C.uk" tvg-name="BeIN Sports En Español" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/BeIN_Sports_en_Espa%C3%B1ol_2017.svg/revision/latest/scale-to-width-down/300?cb=20230910184553" group-title="Thể thao quốc tế",beIN Sports En Español
-#EXTVLCOPT:network-caching=1000
-http://samisat44.xyz:80/5XF88W5/A38UYQV/72382
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Sports_Main_Event_UHD.svg/revision/latest/scale-to-width-down/200?cb=20230210154620" group-title="Thể thao quốc tế",Sky Sports Main Event UHD
-https://7pal.short.gy/SSMEuhd
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Sky_Sports_F1_UHD_.webp/revision/latest/scale-to-width-down/200?cb=20240214033154" group-title="Thể thao quốc tế",Sky Sports F1 UHD
-https://7pal.short.gy/SSF1uhd
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sports_Main_Event_2020.svg/revision/latest/scale-to-width-down/350?cb=20200924152245" group-title="Thể thao quốc tế",Sky Sports Main Event
-https://7pal.short.gy/SkSpMainE
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Sports_Premier_League_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152906" group-title="Thể thao quốc tế",Sky Sports Premier League
-https://7pal.short.gy/ssportspl
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sky_Sports_Football_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152526" group-title="Thể thao quốc tế",Sky Sports Football
-https://7pal.short.gy/ssportsfb
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Sky_Sports_F1_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152412" group-title="Thể thao quốc tế",Sky Sports F1
-https://7pal.short.gy/ssportsf1
-#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-name="Sky Sports Tennis" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Sky_Sports_Tennis.svg/revision/latest/scale-to-width-down/350?cb=20230830104212" group-title="Thể thao quốc tế",Sky Sports Tennis
-https://7pal.short.gy/ssportstn
-#EXTINF:-1 tvg-id="SkySp+.uk" tvg-name="Sky Sports+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Sky_Sports%2B.svg/revision/latest/scale-to-width-down/350?cb=20240808030609" group-title="Thể thao quốc tế",Sky Sports+
-https://7pal.short.gy/ssportplus
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="Sky Sports Golf" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Sky_Sports_Golf_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152539" group-title="Thể thao quốc tế",Sky Sports Golf
-https://7pal.short.gy/ssportsgf
-#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_News_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152703" group-title="Thể thao quốc tế",Sky Sports News
-https://7pal.short.gy/ssportsnw
-#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-name="Sky Sports Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Sky_Sports_Action_2021.svg/revision/latest/scale-to-width-down/300?cb=20210704201429" group-title="Thể thao quốc tế",Sky Sports Action
-https://7pal.short.gy/ssportsat
-#EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-name="Sky Sports Box Office" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Sky_Sports_Box_Office.svg/revision/latest/scale-to-width-down/390?cb=20240918125321" group-title="Thể thao quốc tế",Sky Sports Box Office
-https://7pal.short.gy/ssportsbo
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/France_2_-_logo_2018.svg/609px-France_2_-_logo_2018.svg.png" group-title="Thể thao quốc tế",France 2
 http://69.64.57.208/france2/mono.m3u8
