@@ -115,3 +115,5 @@ https://7pal.short.gy/ssportsnw
 https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-name="Sky Sports Box Office" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Sky_Sports_Box_Office.svg/revision/latest/scale-to-width-down/390?cb=20240918125321" group-title="Thể thao quốc tế",Sky Sports Box Office
 https://7pal.short.gy/ssportsbo
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/France_2_-_logo_2018.svg/609px-France_2_-_logo_2018.svg.png" group-title="Thể thao quốc tế",France 2
+http://69.64.57.208/france2/mono.m3u8
