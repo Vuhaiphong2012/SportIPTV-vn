@@ -6,7 +6,6 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=5
 #EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
 
-==Untied Kingdom==
 #EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png?20241109155317" group-title="Thể thao quốc tế",BBC One
 http://p1.cvtv.xyz:81/bbc1?token=live
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/512px-ITV1_logo_%282022%29.svg.png?20241022192006" group-title="Thể thao quốc tế",ITV1
@@ -41,7 +40,6 @@ https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-name="Sky Sports Box Office" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Sky_Sports_Box_Office.svg/revision/latest/scale-to-width-down/390?cb=20240918125321" group-title="Thể thao quốc tế",Sky Sports Box Office
 https://7pal.short.gy/ssportsbo
 
-==Poland==
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Polsat Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/441px-Polsat_Sport_1_2024.svg.png" group-title="Thể thao quốc tế",Polsat Sport 1
 http://178.219.128.68:64889/POLSSPORHD
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Polsat Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/465px-Polsat_Sport_3_2024.svg.png" group-title="Thể thao quốc tế",Polsat Sport 3
@@ -51,7 +49,6 @@ http://p1.cvtv.xyz/cp1?token=live
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Canal+ Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/800px-Canal%2B_Sport_2_PL.png" group-title="Thể thao quốc tế",Canal+ Sport 2
 http://185.236.229.62:9981/play/a05t
 
-==United States==
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="BeIN Sports Xtra en Español" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Logo-bein-sport-xtra-espanol-plain.png/revision/latest/scale-to-width-down/300?cb=20240923145001" group-title="Thể thao quốc tế",BeIN Sports Xtra en Español
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="BeIN Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/300?cb=20230910182143" group-title="Thể thao quốc tế",BeIN Sports
@@ -64,7 +61,6 @@ http://samisat44.xyz:80/5XF88W5/A38UYQV/174567
 #EXTVLCOPT:network-caching=1000
 http://samisat44.xyz:80/5XF88W5/A38UYQV/72382
 
-==France==
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Canal+ Live 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal%2B_Live_1.png/revision/latest/scale-to-width-down/200?cb=20240911093254" group-title="Thể thao quốc tế",Canal+ Live 1
 #EXTVLCOPT:network-caching=1000
 http://samisat44.xyz:80/5XF88W5/A38UYQV/1069960
