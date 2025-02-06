@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz, https://khanggtivi.xyz/kubolive_epg.xml"
 #EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz"tvg-shift=0 m3uautoload=0
 #EXTM3U url-tvg="https://iptvx.one/EPG" deinterlace=0
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
@@ -41,9 +41,21 @@ https://7pal.short.gy/ssportsat
 https://7pal.short.gy/ssportsbo
 
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Polsat Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/441px-Polsat_Sport_1_2024.svg.png" group-title="Thể thao quốc tế",Polsat Sport 1
-http://178.219.128.68:64889/POLSSPORHD
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/765626.ts
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Polsat Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/465px-Polsat_Sport_3_2024.svg.png" group-title="Thể thao quốc tế",Polsat Sport 3
 http://178.219.128.68:64889/POLSSPORNEWSHD
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="Polsat Sport Premium 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Polsat_Sport_Premium_1_2021_gradient.svg/1024px-Polsat_Sport_Premium_1_2021_gradient.svg.png" group-title="Thể thao quốc tế",Polsat Sport Premium 1
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/67797.ts
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="Polsat Sport Premium 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Polsat_Sport_Premium_2_2021_gradient.svg/1024px-Polsat_Sport_Premium_2_2021_gradient.svg.png?20210819211523" group-title="Thể thao quốc tế",Polsat Sport Premium 2
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/67796.ts
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="Polsat Sport Premium 3 PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Polsat_Sport_Premium_3_PPV_2021_gradient.svg/1024px-Polsat_Sport_Premium_3_PPV_2021_gradient.svg.png?20210819215707" group-title="Thể thao quốc tế",Polsat Sport Premium 3 PPV
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/75831.ts
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="Polsat Sport Premium 4 PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Polsat_Sport_Premium_4_PPV_2021_gradient.svg/1024px-Polsat_Sport_Premium_4_PPV_2021_gradient.svg.png?20210819215836" group-title="Thể thao quốc tế",Polsat Sport Premium 4 PPV
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/75832.ts
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="Polsat Sport Premium 5 PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Polsat_Sport_Premium_5_PPV_2021_gradient.svg/1024px-Polsat_Sport_Premium_5_PPV_2021_gradient.svg.png?20210819215947" group-title="Thể thao quốc tế",Polsat Sport Premium 5 PPV
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/75833.ts
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="Polsat Sport Premium 6 PPV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Polsat_Sport_Premium_6_PPV_2021_gradient.svg/1024px-Polsat_Sport_Premium_6_PPV_2021_gradient.svg.png?20210819220105" group-title="Thể thao quốc tế",Polsat Sport Premium 6 PPV
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/75834.ts
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Canal+ Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B_Sport_2015.png/800px-Canal%2B_Sport_2015.png" group-title="Thể thao quốc tế",Canal+ Sport
 http://p1.cvtv.xyz/cp1?token=live
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Canal+ Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/800px-Canal%2B_Sport_2_PL.png" group-title="Thể thao quốc tế",Canal+ Sport 2
@@ -61,6 +73,8 @@ http://samisat44.xyz:80/5XF88W5/A38UYQV/174567
 #EXTVLCOPT:network-caching=1000
 http://samisat44.xyz:80/5XF88W5/A38UYQV/72382
 
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="Canal+ Foot" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/C%2B_Foot.png?20230903151349" group-title="Thể thao quốc tế",Canal+ Foot
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/311117.ts
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Canal+ Live 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal%2B_Live_1.png/revision/latest/scale-to-width-down/200?cb=20240911093254" group-title="Thể thao quốc tế",Canal+ Live 1
 #EXTVLCOPT:network-caching=1000
 http://samisat44.xyz:80/5XF88W5/A38UYQV/1069960
@@ -130,3 +144,7 @@ https://7pal.short.gy/VSportUHD
 
 #EXTINF:-1 tvg-id="V.sport.ULTRA.HD.fi" tvg-name="MRTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Htvchannels.png/800px-Htvchannels.png" group-title="Thể thao quốc tế",MRTV Sports
 https://lb-as.cdn-perfprod.com/live/arrkasarrchannel
+
+#EXTINF:-1 tvg-chno="33" ch-number="33" tvg-id="3HD" tvg-name="3HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/3HD332020%281%29.png/revision/latest/scale-to-width-down/250?cb=20200512142742" group-title="Thể thao quốc tế",Channel 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls-nginx.v2h-cdn.com/hls/ch3myStream.m3u8
