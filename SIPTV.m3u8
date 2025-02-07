@@ -166,3 +166,9 @@ https://hls-nginx.v2h-cdn.com/hls/ch3myStream.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1024px-Nickelodeon_2023_logo_%28outline%29.svg.png?20230908201315" group-title="Tây Ban Nha",Nickelodeon (Tây Ban Nha)
 http://185.189.225.150:85/nickelodeon/index.m3u8
+
+#EXTINF:-1 tvg-id="CBCToronto(English).ca" tvg-name="CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CBC_logo.svg/600px-CBC_logo.svg.png?20210720194228" group-title="Canada",CBC
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium832/index.m3u8
