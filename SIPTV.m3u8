@@ -74,8 +74,19 @@ http://samisat44.xyz:80/5XF88W5/A38UYQV/174567
 http://samisat44.xyz:80/5XF88W5/A38UYQV/72382
 #EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-name="Nicktoons East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/1415px-Nicktoons_Logo_2023.svg.png?20240526165227" group-title="Hoa Kỳ",Nicktoons
 http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/744px-CNBC_2023.svg.png?20231211150709" group-title="Hoa Kỳ",CNBC
-http://fl2.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="CNBC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/744px-CNBC_2023.svg.png?20231211150709" group-title="Hoa Kỳ",CNBC
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+https://xyzdddd.videohls.ru/lb/premium309/index.m3u8
+#EXTINF:-1 tvg-id="msnbc.HDTV.(msnbcH).us" tvg-name="MSNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/MSNBC_2023.svg/701px-MSNBC_2023.svg.png" group-title="Hoa Kỳ",MSNBC
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium327/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" group-title="Hoa Kỳ",ESPN
+https://7pal.short.gy/espnus
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="Hoa Kỳ",ESPN2
+https://7pal.short.gy/espn2
 
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Canal+ Foot" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/C%2B_Foot.png?20230903151349" group-title="Pháp",Canal+ Foot
 http://samisat44.xyz:80/live/5XF88W5/A38UYQV/311117.ts
