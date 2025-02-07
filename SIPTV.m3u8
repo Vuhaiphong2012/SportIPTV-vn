@@ -72,6 +72,8 @@ http://samisat44.xyz:80/5XF88W5/A38UYQV/174567
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="BeIN Sports En Español" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/BeIN_Sports_en_Espa%C3%B1ol_2017.svg/revision/latest/scale-to-width-down/300?cb=20230910184553" group-title="Hoa Kỳ",beIN Sports En Español
 #EXTVLCOPT:network-caching=1000
 http://samisat44.xyz:80/5XF88W5/A38UYQV/72382
+#EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-name="Nicktoons East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/1415px-Nicktoons_Logo_2023.svg.png?20240526165227" group-title="Hoa Kỳ",Nicktoons
+http://143.244.60.30/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Canal+ Foot" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/C%2B_Foot.png?20230903151349" group-title="Pháp",Canal+ Foot
 http://samisat44.xyz:80/live/5XF88W5/A38UYQV/311117.ts
@@ -148,3 +150,6 @@ https://lb-as.cdn-perfprod.com/live/arrkasarrchannel
 #EXTINF:-1 tvg-chno="33" ch-number="33" tvg-id="3HD" tvg-name="3HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/3HD332020%281%29.png/revision/latest/scale-to-width-down/250?cb=20200512142742" group-title="Thái Lan",Channel 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://hls-nginx.v2h-cdn.com/hls/ch3myStream.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1024px-Nickelodeon_2023_logo_%28outline%29.svg.png?20230908201315" group-title="Tây Ban Nha",Nickelodeon (Tây Ban Nha)
+http://185.189.225.150:85/nickelodeon/index.m3u8
