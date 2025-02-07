@@ -87,6 +87,10 @@ https://xyzdddd.mizhls.ru/lb/premium327/index.m3u8
 https://7pal.short.gy/espnus
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="Hoa Kỳ",ESPN2
 https://7pal.short.gy/espn2
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="FOX (WNYW)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/800px-Fox_Broadcasting_Company_logo_%282019%29.svg.png?20220925102548" group-title="Hoa Kỳ",FOX
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="WSBK.(TV-38).Boston.us" tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/799px-CBS_logo_%282020%29.svg.png?20201009104621" group-title="Hoa Kỳ",CBS
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Canal+ Foot" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/C%2B_Foot.png?20230903151349" group-title="Pháp",Canal+ Foot
 http://samisat44.xyz:80/live/5XF88W5/A38UYQV/311117.ts
