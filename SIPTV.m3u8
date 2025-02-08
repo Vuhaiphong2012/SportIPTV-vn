@@ -103,6 +103,8 @@ https://7pal.short.gy/cbssptnw
 https://aegis-cloudfront-1.tubi.video/ce6650c2-26ea-4433-9276-8a5ebf3992cc/playlist.m3u8
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/316px-NBA_TV.svg.png?20180208231214" group-title="Hoa Kỳ",NBA TV
 https://7pal.short.gy/nbatvus
+#EXTINF:-1 tvg-id="SEC.Network.us" tvg-name="SEC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SEC_Network_%282024%29.svg/800px-SEC_Network_%282024%29.svg.png?20240707064918" group-title="Hoa Kỳ",SEC Network
+https://7pal.short.gy/secnw
 
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Canal+ Foot" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/C%2B_Foot.png?20230903151349" group-title="Pháp",Canal+ Foot
 http://samisat44.xyz:80/live/5XF88W5/A38UYQV/311117.ts
