@@ -203,3 +203,39 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium832/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/672px-VTV1_logo_2013_final.svg.png" group-title="Việt Nam",VTV1
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+http://p1.cvtv.xyz/vtv1?token=live
+#EXTINF:-1 tvg-id="vtv2" tvg-name="VTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/672px-VTV2_logo_2013_final.svg.png" group-title="Việt Nam",VTV2
+http://p1.cvtv.xyz/vtv2?token=live
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/672px-VTV3_logo_2013_final.svg.png" group-title="Việt Nam",VTV3
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+http://p1.cvtv.xyz/vtv3?token=live
+#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/672px-VTV4_logo_2013_final.svg.png" group-title="Việt Nam",VTV4
+http://14.176.78.54:9981/stream/channelid/1204663920?profile=pass
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/672px-VTV5_logo_2013_final.svg.png" group-title="Việt Nam",VTV5
+http://p1.cvtv.xyz/vtv5?token=live
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 Tây Nam Bộ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/794px-Vtv5tnb_logo.svg.png" group-title="Việt Nam",VTV5 Tây Nam Bộ
+http://118.69.97.51:9981/stream/channelid/1683941283?ticket=B1F4CAC7F71ED0662C8F45F7F08B07049D9DA7E7&profile=pass
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-name="VTV5 Tây Nguyên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vtv5taynguyen_logo.svg/794px-Vtv5taynguyen_logo.svg.png" group-title="Việt Nam",VTV5 Tây Nguyên
+http://118.69.97.51:9981/stream/channelid/847816171?ticket=6E0D4C4FAB8042AA2174F8901F3238D4A4855821&profile=pass
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV Cần Thơ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg/650px-Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg.png" group-title="Việt Nam",VTV Cần Thơ
+http://14.176.78.54:9981/stream/channelid/725620460?profile=pass
+#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/697px-VTV7_logo_2016_final.svg.png" group-title="Việt Nam",VTV7
+http://14.176.78.54:9981/stream/channelid/842715374?profile=pass
+#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV8_logo_2016_final.svg/685px-VTV8_logo_2016_final.svg.png" group-title="Việt Nam",VTV8
+http://14.176.78.54:9981/stream/channelid/1529473804?profile=pass
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/498px-VTV9_logo_2013_final.svg.png" group-title="Việt Nam",VTV9
+http://14.176.78.54:9981/stream/channelid/597455466?profile=pass
+#EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/22/THVL1_2017.png/revision/latest/scale-to-width-down/220?cb=20231102084806&path-prefix=vi" group-title="Việt Nam",THVL1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzch2/vinhlong1_vhls.smil/chunklist_b1000000.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ae/THVL2_2017.png/revision/latest/scale-to-width-down/220?cb=20231102084807&path-prefix=vi" group-title="Việt Nam",THVL2
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=26
+#EXTINF:-1 tvg-id="vinhlong3hd" tvg-name="THVL3" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ac/THVL3.png/revision/latest/scale-to-width-down/220?cb=20220411074507&path-prefix=vi" group-title="Việt Nam",THVL3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" tvg-name="THVL4" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/de/THVL4.png/revision/latest/scale-to-width-down/220?cb=20220411075844&path-prefix=vi" group-title="Việt Nam",THVL4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
