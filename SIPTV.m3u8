@@ -39,6 +39,8 @@ https://7pal.short.gy/ssportsnw
 https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-name="Sky Sports Box Office" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Sky_Sports_Box_Office.svg/revision/latest/scale-to-width-down/390?cb=20240918125321" group-title="Vương quốc Anh",Sky Sports Box Office
 https://7pal.short.gy/ssportsbo
+#EXTINF:-1 tvg-id="9206" tvg-name="BBC News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/512px-BBC_News_2022_%28Alt%29.svg.png?20220328170300" group-title="Vương quốc Anh",BBC News
+http://p1.cvtv.xyz:81/bbcn?token=live
 
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Polsat Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/441px-Polsat_Sport_1_2024.svg.png" group-title="Ba Lan",Polsat Sport 1
 http://samisat44.xyz:80/live/5XF88W5/A38UYQV/765626.ts
@@ -72,8 +74,8 @@ http://samisat44.xyz:80/5XF88W5/A38UYQV/174567
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="BeIN Sports En Español" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/BeIN_Sports_en_Espa%C3%B1ol_2017.svg/revision/latest/scale-to-width-down/300?cb=20230910184553" group-title="Hoa Kỳ",beIN Sports En Español
 #EXTVLCOPT:network-caching=1000
 http://samisat44.xyz:80/5XF88W5/A38UYQV/72382
-#EXTINF:-1 tvg-id="NicktoonsEast.us" tvg-name="Nicktoons East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/1415px-Nicktoons_Logo_2023.svg.png?20240526165227" group-title="Hoa Kỳ",Nicktoons
-http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.-.East.us" tvg-name="Nicktoons East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/1415px-Nicktoons_Logo_2023.svg.png?20240526165227" group-title="Hoa Kỳ",Nicktoons
+http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="CNBC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/744px-CNBC_2023.svg.png?20231211150709" group-title="Hoa Kỳ",CNBC
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
@@ -105,6 +107,8 @@ https://aegis-cloudfront-1.tubi.video/ce6650c2-26ea-4433-9276-8a5ebf3992cc/playl
 https://7pal.short.gy/nbatvus
 #EXTINF:-1 tvg-id="SEC.Network.us" tvg-name="SEC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SEC_Network_%282024%29.svg/800px-SEC_Network_%282024%29.svg.png?20240707064918" group-title="Hoa Kỳ",SEC Network
 https://7pal.short.gy/secnw
+#EXTINF:-1 tvg-id="NFL.Network.us" tvg-name="NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/382px-NFL_Network_logo.svg.png?20161010200817" group-title="Hoa Kỳ",NFL Network
+https://7pal.short.gy/nflnw
 
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Canal+ Foot" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/C%2B_Foot.png?20230903151349" group-title="Pháp",Canal+ Foot
 http://samisat44.xyz:80/live/5XF88W5/A38UYQV/311117.ts
