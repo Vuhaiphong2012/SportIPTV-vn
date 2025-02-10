@@ -6,8 +6,14 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=5
 #EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
 
+#EXTINF:-1 tvg-id="9206" tvg-name="BBC News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/512px-BBC_News_2022_%28Alt%29.svg.png?20220328170300" group-title="Vương quốc Anh",BBC News
+http://p1.cvtv.xyz:81/bbcn?token=live
 #EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png?20241109155317" group-title="Vương quốc Anh",BBC One
 http://p1.cvtv.xyz:81/bbc1?token=live
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png?20241109160112" group-title="Vương quốc Anh",BBC Two
+http://p1.cvtv.xyz:81/bbc2?token=live
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-name="BBC Three" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png?20241109160112" group-title="Vương quốc Anh",CBBC/BBC Three
+http://p1.cvtv.xyz:81/bbc2?token=live
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/512px-ITV1_logo_%282022%29.svg.png?20241022192006" group-title="Vương quốc Anh",ITV1
 http://p1.cvtv.xyz/itv1?token=live
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/250px-S4C_logo_2014.svg.png" group-title="Vương quốc Anh",S4C
@@ -39,8 +45,6 @@ https://7pal.short.gy/ssportsnw
 https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-name="Sky Sports Box Office" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Sky_Sports_Box_Office.svg/revision/latest/scale-to-width-down/390?cb=20240918125321" group-title="Vương quốc Anh",Sky Sports Box Office
 https://7pal.short.gy/ssportsbo
-#EXTINF:-1 tvg-id="9206" tvg-name="BBC News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/512px-BBC_News_2022_%28Alt%29.svg.png?20220328170300" group-title="Vương quốc Anh",BBC News
-http://p1.cvtv.xyz:81/bbcn?token=live
 
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Polsat Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/441px-Polsat_Sport_1_2024.svg.png" group-title="Ba Lan",Polsat Sport 1
 http://samisat44.xyz:80/live/5XF88W5/A38UYQV/765626.ts
