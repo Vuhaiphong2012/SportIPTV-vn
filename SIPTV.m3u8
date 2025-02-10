@@ -21,6 +21,11 @@ https://xyzdddd.mizhls.ru/lb/premium358/index.m3u8
 http://p1.cvtv.xyz/itv1?token=live
 #EXTINF:-1 tvg-id="Channel.4.uk" tvg-name="Channel 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/544px-Channel_4_%28On_Demand%29_2023.svg.png?20230425004331" group-title="Vương quốc Anh",Channel 4
 http://p1.cvtv.xyz:81/C4uk?token=live
+#EXTINF:-1 tvg-id="E4.HD.uk" tvg-name="E4 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/536px-E4_logo_2018.svg.png?20221222000408" group-title="Vương quốc Anh",E4
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium363/index.m3u8
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/250px-S4C_logo_2014.svg.png" group-title="Vương quốc Anh",S4C
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
