@@ -222,6 +222,9 @@ https://lb-as.cdn-perfprod.com/live/arrkasarrchannel
 #EXTINF:-1 tvg-chno="33" ch-number="33" tvg-id="3HD" tvg-name="3HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/3HD332020%281%29.png/revision/latest/scale-to-width-down/250?cb=20200512142742" group-title="Thái Lan",Channel 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://hls-nginx.v2h-cdn.com/hls/ch3myStream.m3u8
+#EXTINF:-1 tvg-chno="35" ch-number="35" tvg-id="7HD" tvg-name="7HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/BBTVChannel7_LogoHD.png/revision/latest/scale-to-width-down/250?cb=20160117052448" group-title="Thái Lan",Channel 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls-nginx.v2h-cdn.com/hls/ch7myStream.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1024px-Nickelodeon_2023_logo_%28outline%29.svg.png?20230908201315" group-title="Tây Ban Nha",Nickelodeon (Tây Ban Nha)
 http://185.189.225.150:85/nickelodeon/index.m3u8
