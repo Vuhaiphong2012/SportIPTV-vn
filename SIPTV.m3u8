@@ -146,6 +146,8 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 https://xyzdddd.mizhls.ru/lb/premium132/index.m3u8
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/635px-NBC_logo_2022_%28vertical%29.svg.png?20241111120105" group-title="Hoa Kỳ",NBC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="MTV2East.us" tvg-name="MTV2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/319px-MTV2_logo_2013.svg.png?20180527185133" group-title="Hoa Kỳ",MTV2
+https://fl5.moveonjoy.com/MTV_2/index.m3u8
 
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Canal+ Foot" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/C%2B_Foot.png?20230903151349" group-title="Pháp",Canal+ Foot
 http://samisat44.xyz:80/live/5XF88W5/A38UYQV/311117.ts
