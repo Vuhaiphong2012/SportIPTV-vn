@@ -286,8 +286,6 @@ https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/53
 https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/800px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="Bồ Đào Nha",RTP Internacional
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
