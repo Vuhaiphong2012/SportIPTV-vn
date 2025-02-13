@@ -290,3 +290,6 @@ https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/53
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-name="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Munhwa_Broadcasting_Corporation.svg/1024px-Munhwa_Broadcasting_Corporation.svg.png?20211022064525" group-title="Hàn Quốc",MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
