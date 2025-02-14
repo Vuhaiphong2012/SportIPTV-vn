@@ -69,6 +69,11 @@ https://7pal.short.gy/ssportsnw
 https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-name="Sky Sports Box Office" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Sky_Sports_Box_Office.svg/revision/latest/scale-to-width-down/390?cb=20240918125321" group-title="Vương quốc Anh",Sky Sports Box Office
 https://7pal.short.gy/ssportsbo
+#EXTINF:-1 tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" group-title="Vương quốc Anh",MTV (Vương quốc Anh)
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium367/index.m3u8
 
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Polsat Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/441px-Polsat_Sport_1_2024.svg.png" group-title="Ba Lan",Polsat Sport 1
 http://samisat44.xyz:80/live/5XF88W5/A38UYQV/765626.ts
@@ -272,9 +277,21 @@ https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" tvg-name="THVL4" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/de/THVL4.png/revision/latest/scale-to-width-down/220?cb=20220411075844&path-prefix=vi" group-title="Việt Nam",THVL4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv7hd" tvg-name="HTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Htv7logo2016.png" group-title="Việt Nam",HTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv9hd" tvg-name="HTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HTV9Logomoi.png/800px-HTV9Logomoi.png" group-title="Việt Nam" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/CoBan/htv9hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="vinhlong4hd" tvg-name="Das Erste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/166px-Das_Erste_2014.svg.png?20140612192955" group-title="Đức",Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" tvg-name="WDR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/196px-Wdr_fernsehen_logo_2016.svg.png" group-title="Đức",WDR Fernsehen
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" tvg-name="SWR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/512px-SWR_Logo_2023.svg.png" group-title="Đức",SWR Fernsehen
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" tvg-name="SR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/512px-SR_Fernsehen_Logo_2023.svg.png" group-title="Đức",SR Fernsehen
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 
 #EXTINF:-1 tvg-id="i24NEWSArabic.il" tvg-name="I24 News Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/600px-LOGO_i24NEWS.png" group-title="Israel",I24 News Arabic 
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
@@ -291,3 +308,18 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-name="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Munhwa_Broadcasting_Corporation.svg/1024px-Munhwa_Broadcasting_Corporation.svg.png?20211022064525" group-title="Hàn Quốc",MBC
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/799px-Euronews_2022.svg.png" group-title="Châu Âu",Euronews
+https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="pervy-kanal-eu" tvg-name="OPT1 Interntional (ORT1 International)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/512px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png" group-title="Nga",OPT1 International (ORT1 International)
+http://flussonic.salomtv.uz/Perviy_Kanal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="pervy" tvg-name="OPT1 (ORT1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/512px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png" group-title="Nga",OPT1 (ORT1)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
+#EXTINF:-1 tvg-id="pervy-pl4" tvg-name="OPT1 (MSK+4) (ORT1 (MSK+4))" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/512px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png" group-title="Nga",OPT1 (MSK+4) (ORT1 (MSK+4))
+http://185.101.107.131:2082/05551460890/60890/81715
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Nga",NTV HD
+http://91.205.199.3/ntvhd/index.m3u8
+#EXTINF:-1 tvg-id="ntv-pl4" tvg-name="NTV (MSK+4)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Nga",NTV (MSK+4)
+http://91.205.199.3/ntvplus4/index.m3u8
