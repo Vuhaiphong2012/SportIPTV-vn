@@ -215,6 +215,8 @@ http://samisat44.xyz:80/5XF88W5/A38UYQV/1069978
 http://samisat44.xyz:80/5XF88W5/A38UYQV/1069979
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/France_2_-_logo_2018.svg/609px-France_2_-_logo_2018.svg.png" group-title="Pháp",France 2
 http://69.64.57.208/france2/mono.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/512px-Logo_TF1_2013.svg.png" group-title="Pháp",TF1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png" group-title="Ý",Rai 1
 #EXTVLCOPT:network-caching=1000
@@ -346,3 +348,9 @@ https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
 http://stream-node1.rri.co.id:9025/rrijakartapro4.mp3
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="RRI Pro 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/RRI_Pro_5_2023.svg/513px-RRI_Pro_5_2023.svg.png" group-title="Indonesia",RRI Pro 5
 https://stream.streamaudio.de:8000/teststream3
+
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/374px-TRT_1_logo_%282021-%29.svg.png" group-title="Thổ Nhĩ Kỳ",TRT1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/512px-Abu_Dhabi_Sports_logo_2023.svg.png?20230927122908" group-title="Các tiểu Vương quốc Ả Rập thống nhất",Abu Dhabi Sports 1
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
