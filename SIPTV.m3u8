@@ -283,6 +283,12 @@ https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv9hd" tvg-name="HTV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HTV9Logomoi.png/800px-HTV9Logomoi.png" group-title="Việt Nam" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tv.TruyenHinh.Click/CoBan/htv9hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="vtvcab4hd" tvg-name="ON Movies (VTVCab 4) - YouTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/ON_Movies_logo_17-05-2023.png/revision/latest/scale-to-width-down/200?cb=20230518112918&path-prefix=vi" group-title="Việt Nam" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab4-phim-dac-sac/${start}/${offset}",ON Movies (VTVCab 4) - YouTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="sctv2hd" tvg-name="SCTV2 - TodayTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/SCTV2.png/revision/latest/scale-to-width-down/200?cb=20201119114104&path-prefix=vi" group-title="Việt Nam",SCTV2 - TodayTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv2/index.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong4hd" tvg-name="Das Erste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/166px-Das_Erste_2014.svg.png?20140612192955" group-title="Đức",Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
@@ -325,3 +331,16 @@ http://185.101.107.131:2082/05551460890/60890/81715
 http://91.205.199.3/ntvhd/index.m3u8
 #EXTINF:-1 tvg-id="ntv-pl4" tvg-name="NTV (MSK+4)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/200px-NTV_logo_2003.svg.png" group-title="Nga",NTV (MSK+4)
 http://91.205.199.3/ntvplus4/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/150px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="RRI Pro 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RRI_Pro_1_2023.svg/512px-RRI_Pro_1_2023.svg.png" group-title="Indonesia",RRI Pro 1
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="RRI Pro 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/RRI_Pro_2_2023.svg/512px-RRI_Pro_2_2023.svg.png" group-title="Indonesia",RRI Pro 2
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="RRI Pro 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/RRI_Pro_3_2023.svg/513px-RRI_Pro_3_2023.svg.png" group-title="Indonesia",RRI Pro 3
+https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="RRI Pro 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/RRI_Pro_4_2023.svg/512px-RRI_Pro_4_2023.svg.png" group-title="Indonesia",RRI Pro 4
+http://stream-node1.rri.co.id:9025/rrijakartapro4.mp3
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="RRI Pro 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/RRI_Pro_5_2023.svg/513px-RRI_Pro_5_2023.svg.png" group-title="Indonesia",RRI Pro 5
+https://stream.streamaudio.de:8000/teststream3
