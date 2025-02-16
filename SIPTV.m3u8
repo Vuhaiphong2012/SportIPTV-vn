@@ -291,6 +291,17 @@ https://tv.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="sctv2hd" tvg-name="SCTV2 - TodayTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/SCTV2.png/revision/latest/scale-to-width-down/200?cb=20201119114104&path-prefix=vi" group-title="Việt Nam",SCTV2 - TodayTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctv2/index.m3u8
+#EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/800px-HTV1.png" group-title="Việt Nam",HTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv1" tvg-name="VOH AM 610Khz" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f0/AM_610_%28VOH%29.png?20200214021931" group-title="Việt Nam",VOH AM 610Khz
+https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="htv1" tvg-name="VOH FM 99.9Mhz" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/11/FM_99.9_%28VOH%29.png?20200214022554" group-title="Việt Nam",VOH FM 99.9Mhz
+https://strm.voh.com.vn/radio/channel3/playlist.m3u8
+#EXTINF:-1 tvg-id="htv1" tvg-name="VOH FM 95.6Mhz" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0b/FM_95.6_%28VOH%29.png?20200214022723" group-title="Việt Nam",VOH FM 95.6Mhz
+https://strm.voh.com.vn/radio/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="htv1" tvg-name="VOH FM 87.7Mhz" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/82/FM_87.7_%28VOH%29.png?20200214022222" group-title="Việt Nam",VOH FM 87.7Mhz
+https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong4hd" tvg-name="Das Erste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/166px-Das_Erste_2014.svg.png?20140612192955" group-title="Đức",Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
