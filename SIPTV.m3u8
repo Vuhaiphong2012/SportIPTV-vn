@@ -384,3 +384,6 @@ http://p1.cvtv.xyz/die1?token=live
 
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-name="RNK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/National_Radio_of_Cambodia_logo.png/revision/latest/scale-to-width-down/200?cb=20241216050654" group-title="Campuchia",RNK
 http://119.82.252.6:8080/broadwave.mp3
+
+#EXTINF:-1 tvg-id="fuji_tv" tvg-name="Fuji TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/256px-Fuji_TV_logo.svg.png?20110810005838" group-title="Nhật Bản",Fuji TV
+http://vthanh.utako.moe/Fuji_TV/index.m3u8
