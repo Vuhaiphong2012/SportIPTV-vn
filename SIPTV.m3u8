@@ -304,8 +304,6 @@ https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 #EXTINF:-1 tvg-id="htv1" tvg-name="Hải Dương (FM 104.5MhZ)" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9a/Logo_THD_H%E1%BA%A3i_D%C6%B0%C6%A1ng_2023.png/revision/latest/scale-to-width-down/180?cb=20231008073356&path-prefix=vi" group-title="Việt Nam",Hải Dương (FM 104.5MhZ)
 http://113.160.131.11:8000/
-#EXTINF:-1 tvg-id="htv1" tvg-name="Bắc Ninh (FM 92.1MhZ)" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6a/Logo_BTV_B%E1%BA%AFc_Ninh_FM_92%2C1MHz.png/revision/latest/scale-to-width-down/180?cb=20220928121147&path-prefix=vi" group-title="Việt Nam",Bắc Ninh (FM 92.1MhZ)
-https://stream.thingnet.vn/radio/bacninh_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv14hd" tvg-name="SCTV14 - Phim Việt" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/SCTV14.png/revision/latest/scale-to-width-down/200?cb=20210820042328&path-prefix=vi" group-title="Việt Nam",SCTV14 - Phim Việt
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctv14/index.m3u8
@@ -315,6 +313,8 @@ https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv1hd" tvg-name="SCTV1" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/SCTV1.png/revision/latest/scale-to-width-down/200?cb=20201119113949&path-prefix=vi" group-title="Việt Nam",SCTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8
+#EXTINF:-1 tvg-id="sctv1hd" tvg-name="Bắc Giang (FM 98.4MhZ)" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/BG.TV_Bac_Giang.png/revision/latest/scale-to-width-down/200?cb=20201008090904&path-prefix=vi" group-title="Việt Nam",Bắc Giang (FM 98.4MhZ)
+https://live.mediatech.vn/live/28584e20827396945f5a4fd57fadd4be21a/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong4hd" tvg-name="Das Erste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/166px-Das_Erste_2014.svg.png?20140612192955" group-title="Đức",Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
