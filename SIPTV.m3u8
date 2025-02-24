@@ -227,6 +227,8 @@ https://7pal.short.gy/VSportUHD
 
 #EXTINF:-1 tvg-id="V.sport.ULTRA.HD.fi" tvg-name="MRTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Htvchannels.png/800px-Htvchannels.png" group-title="Myanmar",MRTV Sports
 https://lb-as.cdn-perfprod.com/live/arrkasarrchannel
+#EXTINF:-1 tvg-id="V.sport.ULTRA.HD.fi" tvg-name="MRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png?20231128110301" group-title="Myanmar",MRTV
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="33" ch-number="33" tvg-id="3HD" tvg-name="3HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/3HD332020%281%29.png/revision/latest/scale-to-width-down/250?cb=20200512142742" group-title="Thái Lan",Channel 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
