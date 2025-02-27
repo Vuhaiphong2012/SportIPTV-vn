@@ -75,6 +75,10 @@ https://7pal.short.gy/ssportsbo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium367/index.m3u8
 
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_2021_gradient.svg/1024px-Polsat_2021_gradient.svg.png" group-title="Ba Lan",Polsat
+http://178.219.128.68:64889/POLSHD
+#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="Polsat News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Polsat_News_2021_gradient.svg/898px-Polsat_News_2021_gradient.svg.png?20210814122809" group-title="Ba Lan",Polsat News
+http://178.219.128.68:64888/POLSNEWSHD
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Polsat Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/441px-Polsat_Sport_1_2024.svg.png" group-title="Ba Lan",Polsat Sport 1
 http://samisat44.xyz:80/live/5XF88W5/A38UYQV/765626.ts
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="Polsat Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_3_2024.svg/465px-Polsat_Sport_3_2024.svg.png" group-title="Ba Lan",Polsat Sport 3
