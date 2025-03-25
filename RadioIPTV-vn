@@ -4,5 +4,9 @@ http://media.kythuatvov.vn:8001
 http://media.kythuatvov.vn:8003
 #EXTINF:-1 group-title="Việt Nam" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/VOV3_logo_2022.svg/revision/latest/scale-to-width-down/180?cb=20220213141104&path-prefix=vi",VOV3
 http://media.kythuatvov.vn:8005
-#EXTINF:-1 group-title="Việt Nam" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/VOV3_logo_2022.svg/revision/latest/scale-to-width-down/180?cb=20220213141104&path-prefix=vi",VOV Giao Thông Hà Nội
-http://media.kythuatvov.vn:8005
+#EXTINF:-1 group-title="Việt Nam" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a4/VOV_GT_Hanoi.webp/revision/latest/scale-to-width-down/180?cb=20210927101540&path-prefix=vi",VOV Giao Thông Hà Nội
+http://media.kythuatvov.vn:7025
+#EXTINF:-1 group-title="Việt Nam" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/VOV_GT_Ho_Chi_Minh.webp/revision/latest/scale-to-width-down/180?cb=20210927101547&path-prefix=vi",VOV Giao Thông TP.HCM
+http://media.kythuatvov.vn:7023
+#EXTINF:-1 group-title="Việt Nam" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/VOV_GT_Mekong.webp/revision/latest/scale-to-width-down/180?cb=20210927101634&path-prefix=vi",VOV Giao Thông Mê Kông
+http://media.kythuatvov.vn:8059
