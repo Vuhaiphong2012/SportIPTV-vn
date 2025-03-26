@@ -10,6 +10,8 @@ http://media.kythuatvov.vn:7025
 http://media.kythuatvov.vn:7023
 #EXTINF:-1 group-title="Việt Nam" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/VOV_GT_Mekong.webp/revision/latest/scale-to-width-down/180?cb=20210927101634&path-prefix=vi",VOV Giao Thông Mê Kông
 http://media.kythuatvov.vn:8059
+#EXTINF:-1 group-title="Việt Nam" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fa/THP_logo.png/revision/latest/scale-to-width-down/180?cb=20201018235952&path-prefix=vi",THP Giao Thông FM 102.2
+https://live.mediatech.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8
 
 #EXTINF:-1 group-title="Thái Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Radio_Thailand_World_Service_logo.gif?20101126092216",Radio Thailand FM 92.5
 http://prdonline.prd.go.th:8202/;
