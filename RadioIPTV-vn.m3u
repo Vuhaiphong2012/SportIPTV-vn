@@ -10,3 +10,14 @@ http://media.kythuatvov.vn:7025
 http://media.kythuatvov.vn:7023
 #EXTINF:-1 group-title="Việt Nam" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/VOV_GT_Mekong.webp/revision/latest/scale-to-width-down/180?cb=20210927101634&path-prefix=vi",VOV Giao Thông Mê Kông
 http://media.kythuatvov.vn:8059
+
+#EXTINF:-1 group-title="Thái Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Radio_Thailand_World_Service_logo.gif?20101126092216",Radio Thailand FM 92.5
+http://prdonline.prd.go.th:8202/;
+
+#EXTINF:-1 group-title="Vương quốc Anh" tvg-name="BBC World Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/BBC_World_Service_2022_%28Boxed%29.svg/960px-BBC_World_Service_2022_%28Boxed%29.svg.png",BBC World Service Asia
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia
+
+#EXTINF:-1 group-title="Trung Quốc" tvg-name="RTHK Radio 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/RTHK_Radio_4_Logo_%282019%29.svg/revision/latest?cb=20230923182802",RTHK Radio 4
+https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
+#EXTINF:-1 group-title="Trung Quốc" tvg-name="CNR14" tvg-logo="https://big-radio.net/es/uploads/posts/2024-04/rthk-radio-voice-of-hong-kong-001.webp",RTHK Radio 6 - CNR Hong Kong Service
+http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
